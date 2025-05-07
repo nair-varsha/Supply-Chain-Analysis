@@ -1,8 +1,8 @@
 # Supply-Chain-Analysis
-Project Title:
+**Project Title:**
 Data-Driven Optimization of Supply Chain Operations
 
-Key Components:
+**Key Components:**
 Data Integration & Cleaning:
 Consolidated and cleaned data from multiple supply chain segments, including sales, inventory, manufacturing, logistics, and quality control.
 
@@ -21,5 +21,5 @@ Identified cost-saving opportunities in procurement, transportation modes, and i
 Quality and Risk Analysis:
 Evaluated inspection results and defect rates to identify suppliers or products contributing to quality issues.
 
-Impact:
+**Impact:**
 Enhanced supply chain efficiency by improving demand forecasting, reducing logistics and inventory costs, and identifying quality and process inefficiencies—enabling smarter, data-driven decision-making.
